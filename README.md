@@ -4,7 +4,7 @@ Ini adalah project backend sederhana yang berisi file `sekolah.sql` untuk membua
 
 ## 📂 Isi File
 
-- `sekolah.sql`: Berisi query SQL untuk membuat tabel siswa, guru, dan mata pelajaran.
+- `sekolah.sql`: Berisi query SQL untuk membuat tabel siswa dan nilai
 
 ## 🛠 Tools yang Digunakan
 
