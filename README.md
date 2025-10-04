@@ -22,5 +22,5 @@ Ini adalah project backend sederhana yang berisi file `sekolah.sql` untuk membua
 ## 👩‍💻 Author
 
 **Nindya Sekartaji**  
-Mahasiswa Sistem Informasi – Universitas Duta Bangsa Surakarta  
-Aktif dalam pengembangan web, UI/UX, dan dokumentasi teknis
+Mahasiswa Sistem Informasi – Universitas Negeri Surabaya  
+Aktif dalam Design UI/UX, dan dokumentasi teknis
